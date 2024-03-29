@@ -1,4 +1,4 @@
-# ProjetosLP---JAVA
+# Linguagens-de-Programacao
 Projetos Linguagens de Programação - JAVA
 # Lotofácil Java
 
@@ -18,11 +18,11 @@ Para executar o Lotofácil Java, siga os passos abaixo:
 
 1. Clone o repositório do projeto:
 
-git clone https://github.com/DayraGramiscelli/ProjetosLP-Newton
+git clone https://github.com/DayraGramiscelli/Linguagens-de-Programacao
 
 2. Navegue até o diretório do projeto:
    
-cd ProjetosLP-Newton
+cd Linguagens-de-Programacao
 
 4. Compile o código fonte:
 
