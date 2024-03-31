@@ -12,7 +12,7 @@ public class MenuInterativo {
     private JButton Sair;
 
     private void createUIComponents() {
-        private void jButtonSairActionPerformed(java.awt.event.ActionEvent) {
+        private void jButtonSairActionPerformed(java.awt.event.ActionEvent); {
             // Fechar o programa quando o botão "Sair" for pressionado
             System.exit(Sair);
         }
