@@ -44,3 +44,12 @@ Bibliotecas:
 
 ## Autor
 Este projeto foi desenvolvido por [Dayra Gramiscelli] e faz parte de um exercício prático de linguagens de programação, em Java.
+
+
+## Projeto em Execução:
+
+https://github.com/DayraGramiscelli/Linguagens-de-Programacao/assets/131476671/a3bc8856-e898-4e5a-9a52-6787435da07c
+
+
+
+
